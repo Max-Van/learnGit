@@ -9,18 +9,18 @@
 
 ## 查看配置
 
-git config --list [--local | --global | --system]
+* git config --list [--local | --global | --system]
 
 ## 添加配置
 
-git config [--local | --global | --system] user.name 'Your name'
-git config [--local | --global | --system] user.email 'Your email'
+* git config [--local | --global | --system] user.name 'Your name'
+* git config [--local | --global | --system] user.email 'Your email'
 
 ## 区别
 
-local：区域为本仓库
-global: 当前用户的所有仓库
-system: 本系统的所有用户
+* local：区域为本仓库
+* global: 当前用户的所有仓库
+* system: 本系统的所有用户
 
 ## 实战
 
@@ -34,5 +34,12 @@ $ git config --system --list
 ###修改配置
 ~~~bash
 $ git config --global user.name 'fan'
-$ git config --global user.name 'fan'
+$ git config --global user.email 'maxffq@me.com'
 ~~~
+
+
+## 优先级
+
+类似的，我们可以修改local的配置（当两者有冲突时，local的配置会覆盖global的设置）
+
+local > global > system 
