@@ -10,7 +10,7 @@
 
 ## git 
 
-![git flow](https://d.pr/i/31XpLG)
+![git flow](https://cdn-std.dprcdn.net/files/acc_136293/31XpLG)
 
 * git config --list [--local | --global | --system]
 
