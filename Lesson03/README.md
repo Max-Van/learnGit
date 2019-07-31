@@ -30,7 +30,7 @@
 ## Git 分支
 
 * git checkout -av : 查看分支
-* git checkout -b branch_name : 创建分支
+* git checkout -b branch_name : 创建分支 
 
 ## Git push
 
