@@ -3,7 +3,7 @@
 
 ## 知识点
 
-* 了解暂存区
+* 了解*暂存区*
 * Git add 
 * Git commit
 * Git 分支
