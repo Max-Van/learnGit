@@ -30,7 +30,7 @@ This is list with hyper link :
 
 this is a image : 
 
-![lovely smile](https://cdn-std.dprcdn.net/files/acc_136293/wv0sb8)
+![lovely smile](https://cdn-std.dprcdn.net/files/acc_136293/oMnMtM)
 
 
 This is linux command 
@@ -87,5 +87,6 @@ Asterisks
 
 ___
 
+videos with a photo 
 
 [![IMAGE ALT TEXT HERE](https://cdn-std.dprcdn.net/files/acc_136293/49XXca)](https://www.youtube.com/watch?v=I1OO6WaxqEg)
