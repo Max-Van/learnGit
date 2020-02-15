@@ -29,6 +29,3 @@ https://git-scm.com/book/zh/v2/起步-安装-Git
 $ git --version
 git version 2.21.0
 ~~~
-
-#testing1
-#testing2
